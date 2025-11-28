@@ -1,0 +1,11 @@
+City,Soil_Type,pH,Temperature,Rainfall,Humidity,Sunlight,Suitable_for_Bajra
+Jaipur,Sandy,6.5,29.5,1003,56,8.8,1
+Bengaluru,Sandy,7.4,21.6,861,77,8.3,1
+Delhi,Clay,7.5,29.3,1848,66,9.0,0
+Jaipur,Sandy,5.8,26.2,2468,37,5.2,0
+Chennai,Loamy,6.8,32.1,1200,68,7.5,1
+Mumbai,Clay,7.2,30.4,2100,81,6.1,0
+Lucknow,Loamy,6.7,28.6,1350,72,7.8,1
+Hyderabad,Sandy,5.9,27.5,980,55,8.2,1
+Pune,Sandy,6.3,25.3,890,60,7.0,1
+Kolkata,Clay,7.1,31.0,2000,79,6.5,0

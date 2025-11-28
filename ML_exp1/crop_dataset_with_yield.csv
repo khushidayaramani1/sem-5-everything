@@ -1,0 +1,6 @@
+City,Soil Type,pH,Temperature (°C),Rainfall (mm),Humidity (%),Sunlight (hrs),Plant Type,Yield (kg/acre)
+Jaipur,Sandy,6.45,29.5,1003,56,8.8,Bajra,4780
+Bengaluru,Sandy,7.4,21.6,861,77,8.3,Bajra,4792
+Delhi,Clay,7.46,29.3,1848,66,9.0,Rice,6485
+Jaipur,Sandy,5.85,26.2,2468,37,5.2,Cactus,4265
+Lucknow,Sandy,8.23,24.1,857,49,6.9,Bajra,4272
